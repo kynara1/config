@@ -8,6 +8,7 @@ code --install-extension bradlc.vscode-tailwindcss
 code --install-extension chris-noring.node-snippets
 code --install-extension christian-kohler.npm-intellisense
 code --install-extension christian-kohler.path-intellisense
+code --install-extension codeium.codeium
 code --install-extension coenraads.bracket-pair-colorizer-2
 code --install-extension cschlosser.doxdocgen
 code --install-extension cweijan.dbclient-jdbc
@@ -29,11 +30,14 @@ code --install-extension ecmel.vscode-html-css
 code --install-extension equinusocio.vsc-community-material-theme
 code --install-extension equinusocio.vsc-material-theme
 code --install-extension equinusocio.vsc-material-theme-icons
+code --install-extension fiazluthfi.bulma-snippets
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-complete-tag
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension github.vscode-pull-request-github
+code --install-extension hollowtree.vue-snippets
 code --install-extension hookyqr.beautify
+code --install-extension humao.rest-client
 code --install-extension jasonnutter.search-node-modules
 code --install-extension jeff-hykin.better-cpp-syntax
 code --install-extension icrawl.discord-vscode
@@ -69,6 +73,8 @@ code --install-extension pranaygp.vscode-css-peek
 code --install-extension prisma.prisma
 code --install-extension redhat.java
 code --install-extension ritwickdey.liveserver
+code --install-extension rodrigovallades.es7-react-js-snippets
+code --install-extension sdras.vue-vscode-snippets
 code --install-extension shufo.vscode-blade-formatter
 code --install-extension skyran.js-jsx-snippets
 code --install-extension stevertus.mcscript
@@ -89,6 +95,7 @@ code --install-extension vscjava.vscode-java-pack
 code --install-extension vscjava.vscode-java-test
 code --install-extension vscjava.vscode-maven
 code --install-extension vscode-icons-team.vscode-icons
+code --install-extension vue.volar
 code --install-extension wallabyjs.quokka-vscode
 code --install-extension wholroyd.jinja
 code --install-extension wix.vscode-import-cost
