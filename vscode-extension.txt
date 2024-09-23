@@ -26,6 +26,7 @@ code --install-extension donjayamanne.python-environment-manager
 code --install-extension donjayamanne.python-extension-pack
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension ecmel.vscode-html-css
+code --install-extension equinusocio.vsc-community-material-theme
 code --install-extension equinusocio.vsc-material-theme
 code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension formulahendry.auto-close-tag
@@ -35,6 +36,10 @@ code --install-extension github.vscode-pull-request-github
 code --install-extension hookyqr.beautify
 code --install-extension jasonnutter.search-node-modules
 code --install-extension jeff-hykin.better-cpp-syntax
+code --install-extension icrawl.discord-vscode
+code --install-extension jasonnutter.search-node-modules
+code --install-extension jeff-hykin.better-cpp-syntax
+code --install-extension katsute.code-background
 code --install-extension kevinrose.vsc-python-indent
 code --install-extension kvcvc.sequelize-snippets
 code --install-extension leizongmin.node-module-intellisense
@@ -70,6 +75,9 @@ code --install-extension stevertus.mcscript
 code --install-extension tal7aouy.theme
 code --install-extension techer.open-in-browser
 code --install-extension twxs.cmake
+code --install-extension stevertus.mcscript
+code --install-extension tal7aouy.theme
+code --install-extension techer.open-in-browser
 code --install-extension unthrottled.doki-theme
 code --install-extension usernamehw.errorlens
 code --install-extension visualstudioexptteam.intellicode-api-usage-examples
